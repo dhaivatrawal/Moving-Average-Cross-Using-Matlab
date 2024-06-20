@@ -19,5 +19,9 @@ Additionally, this project encompasses a second task that involves analyzing a d
 
 By implementing this project, users gain insights into algorithmic trading strategies and their application using MATLAB, providing a hands-on approach to financial data analysis and trading simulation.
 
+<img width="326" alt="Screenshot 2024-06-20 at 3 41 14 PM" src="https://github.com/dhaivatrawal/Moving-Average-Cross-Using-Matlab/assets/101917324/36aeec8c-4176-4f0d-bfdd-d815ad91ef5c">
+
+
+
 ![image02](https://github.com/dhaivatrawal/Moving-Average-Cross-Using-Matlab/assets/101917324/1072a9e7-1d69-420f-9de7-5156bb204e81)
 
