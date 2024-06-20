@@ -1,5 +1,8 @@
 # Moving Average Cross Using Matlab
 
+![image01](https://github.com/dhaivatrawal/Moving-Average-Cross-Using-Matlab/assets/101917324/5571d1e5-a95b-4911-b2e6-5943e78df561)
+
+
 This project involves implementing and testing a moving average trading strategy using MATLAB, specifically applied to the daily closing prices of JustEat6M stock. The strategy is based on two moving averages: the 7-day moving average (7MA) and the 14-day moving average (14MA). The trading rules are straightforward:
 
 Buy Signal: If the 7MA crosses the 14MA from below, the entire budget (£1M) is used to buy the stock.
@@ -15,3 +18,6 @@ The final deliverables include the MATLAB (.m) file, the code embedded in a repo
 Additionally, this project encompasses a second task that involves analyzing a dataset with 8 datapoints and three attributes/features, with the target values captured in a decision column. The analysis and results for this task are presented as part of the comprehensive report.
 
 By implementing this project, users gain insights into algorithmic trading strategies and their application using MATLAB, providing a hands-on approach to financial data analysis and trading simulation.
+
+![image02](https://github.com/dhaivatrawal/Moving-Average-Cross-Using-Matlab/assets/101917324/1072a9e7-1d69-420f-9de7-5156bb204e81)
+
